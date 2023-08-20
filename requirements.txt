@@ -1,2 +1,4 @@
 streamlit
 modal
+langchain
+openai
